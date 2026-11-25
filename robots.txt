@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tu-negocio-a-medida.github.io/sitemap.xml
